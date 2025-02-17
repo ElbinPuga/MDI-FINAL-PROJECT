@@ -1,136 +1,90 @@
+% TODO:
+% Arreglar portada
+% Hacer registro del tema
+% Hacer formulario de verificacion
+%
+
 \documentclass{extbook}
-\usepackage[papersize={8.5in,11in},top=1in,bottom=1in]{geometry}
-\RequirePackage{fix-cm}
-\usepackage[T1]{fontenc}
-\usepackage{lmodern}
-\usepackage{fullpage}
-\usepackage{titlesec}
-\usepackage{parskip}
-\usepackage{float}
-\usepackage{url}
-\usepackage{hyperref}
-\usepackage{graphicx}
-\usepackage{tcolorbox}
-\usepackage{tabularx}
-\usepackage[dvipsnames]{xcolor}
-\usepackage{titlesec}
-\usepackage{listings}
 
-
-\lstset{
-  basicstyle=\fontsize{12}{12}\sffamily\color{black},
-  frame=single,
-  numbers=left,
-  numbersep=5pt,
-  numberstyle=\tiny\color{gray},
-  showspaces=false,
-  showstringspaces=false,
-  tabsize=1
-}
+% Paquetes
+\input{paquetes.tex}
 
 \setcounter{tocdepth}{5}
 \setcounter{secnumdepth}{5}
 
-%renombro de ingles a español
-\renewcommand{\contentsname}{Contenido}
-\renewcommand{\figurename}{Figura}
-\renewcommand{\listfigurename}{Lista de figuras}
-\renewcommand{\bibname}{Bibliografía}
-\renewcommand{\tablename}{Tabla}
-\renewcommand{\listtablename}{Lista de tablas}
+% Traducir palabras clave de inglés a español
+\input{renombrar_comandos.tex}
 
-\usepackage[fontsize=13.5pt]{fontsize}
+% Estilo de titulo de capitulo
+% Que dolor uuuuuffffff. Leer documentacion uuufff
+\input{estilo_capitulo.tex}
 
-\titleformat{\chapter}[display]
-  {\bfseries\huge} % Estilo del título
-  {\hfill\Large} % Alineación a la derecha
-  {3ex} % Espaciado entre el número del capítulo y el título
-  {\vspace{-5cm}\titlerule\vspace{1.5ex}\hfill} % Regla arriba y alineación del título a la derecha
-  [\vspace{1ex}\titlerule] % Regla debajo del título
-
-
-  \makeatletter
-  \patchcmd{\chapter}
-    {\if@openright\cleardoublepage\else\clearpage\fi}
-    {\clearpage}
-    {}{}
-  \makeatother
-
-  \definecolor{codegreen}{rgb}{0,0.6,0}
-  \definecolor{codegray}{rgb}{0.5,0.5,0.5}
-  \definecolor{codepurple}{rgb}{0.58,0,0.82}
-  \definecolor{backcolour}{rgb}{0.95,0.95,0.92}
-
+% Inicio de documento
 \begin{document}
 
+% Portada
 \input{Portada/portada.tex}
 
+% Contenido preliminar
 \tableofcontents
 \listoffigures
 \listoftables
 
-\chapter{I Introducción}
-\input{Introduccion/intro.tex}
+% Introduccion
+\chapter{Introducción}
+% \input{Introduccion/intro.tex}
 \chapter{Resumen}
 
-%capitulo 1
+% Capitulo 1
 \chapter{Generalidades del proyecto}
-
-    \section{Antecedentes}
-      \input{Antecedentes/contexto_historico.tex}
-      \input{Antecedentes/era_ditial.tex}
-      \input{Antecedentes/problema_educativo.tex}
-    \section{Identificación del problema}
-      \input{Identificación del problema/impacto_ed_cientifica.tex}
-    \section{Objetivo General}
-      \input{Objetivos/general.tex}
-    \section{Objetivos Específicos}
-      \input{Objetivos/espec.tex}
-    \section{Justificación}
-      \input{Justificacion/justificacion.tex}
-    \section{Delimitación}
+  \section{Antecedentes}
+    \input{Antecedentes/contexto_historico.tex}
+    \input{Antecedentes/era_ditial.tex}
+    \input{Antecedentes/problema_educativo.tex}
+  \section{Identificación del problema}
+    \input{Identificación del problema/impacto_ed_cientifica.tex}
+  \section{Objetivo General}
+    \input{Objetivos/general.tex}
+  \section{Objetivos Específicos}
+    \input{Objetivos/espec.tex}
+  \section{Justificación}
+    \input{Justificacion/justificacion.tex}
+  \section{Delimitación}
     \input{Delimitacion/delimitacion.tex}
 
-%capitulo 2
-
+% Capitulo 2
 \chapter{Marco Teórico}
-    \section{Área de investigación}
-      \input{Marco Teórico/intro.tex}
-      \input{Marco Teórico/area_investigacion.tex}
-    \section{Proyectos Similares}
-      \input{Marco Teórico/proyectos_similar.tex}
-    \section{Tecnologías de desarollo}
-      \input{Marco Teórico/tecnologias_desarrollo.tex}
+  \section{Área de investigación}
+    \input{Marco Teórico/intro.tex}
+    \input{Marco Teórico/area_investigacion.tex}
+  \section{Proyectos Similares}
+    \input{Marco Teórico/proyectos_similar.tex}
+  \section{Tecnologías de desarollo}
+    \input{Marco Teórico/tecnologias_desarrollo.tex}
 
-%capitulo 3
+% Capitulo 3
 \chapter{Propuesta del proyecto}
-    \section{Metodología del trabajo}
-    \section{Escenario de aplicación}
-    \section{Cronograma de actividades}
-      \input{Cronograma/cronograma_act.tex}
+  \section{Metodología del trabajo}
+  \section{Escenario de aplicación}
+  \section{Cronograma de actividades}
+    \input{Cronograma/cronograma_act.tex}
+  \section{Presupuesto Real}
+  \section{Diseño Conceptual}
 
-    \section{Presupuesto Real}
-    \section{Diseño Conceptual}
-
-
-%capitulo 4
-
+% Capitulo 4
 \chapter{Prototipo del Proyecto}
-    \section{Interfaces del sistema}
-    \section{Módulos Desarrollados}
-    \section{Construcción del prototipo}
-    \section{Presupuesto Real}
-    \section{Diseño Conceptual}
+  \section{Interfaces del sistema}
+  \section{Módulos Desarrollados}
+  \section{Construcción del prototipo}
+  \section{Presupuesto Real}
+  \section{Diseño Conceptual}
 
-
-%capitulo 5
-
+% Capitulo 5
 \chapter{Resultados y Conclusiones}
-    \section{Resultados}
-    \section{Conclusiones}
+  \section{Resultados}
+  \section{Conclusiones}
 
-
-%referencias
+% Referencias
 \include{referencias}
 
 \end{document}

@@ -1,0 +1,21 @@
+% NOTE:
+% formato en la documentacion
+% \titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
+%
+
+\titleformat
+  {\chapter} % Aplica a capitulos.
+  [display] % Los mas parecido a un word?
+  {\bfseries\huge\raggedright} % negrita, tamaño grande, alineación izquierda
+  {} % Numero, subection, ... (no interesa)
+  {0pt} % Espacio (vertical con display) entre etiqueta y título.
+  {\vspace{-5cm}} % Espacio negativo hacia arriba (mas compacto).
+  [\vspace{-1.5cm}] % Espacio entre titulo y texto del cuerpo (mas compacto).
+
+  % Eliminar pagina doble extra al final de un capitulo
+  \makeatletter
+  \patchcmd{\chapter}
+    {\if@openright\cleardoublepage\else\clearpage\fi}
+    {\clearpage}
+    {}{}
+  \makeatother
