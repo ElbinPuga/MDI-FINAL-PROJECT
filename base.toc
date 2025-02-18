@@ -1,48 +1,48 @@
-\contentsline {chapter}{\numberline {1}Introducción}{6}{chapter.1}%
-\contentsline {chapter}{\numberline {2}Resumen}{7}{chapter.2}%
-\contentsline {chapter}{\numberline {3}Generalidades del proyecto}{8}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Antecedentes}{8}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Compilación histórica del estudio astronómico}{8}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Historia de la simulación en la astronomía}{8}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Transición a la era digital}{10}{subsection.3.1.3}%
-\contentsline {section}{\numberline {3.2}Identificación del problema}{11}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Objetivo General}{12}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Objetivos Específicos}{12}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Justificación}{12}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Delimitación}{12}{section.3.6}%
-\contentsline {chapter}{\numberline {4}Marco Teórico}{13}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Área de investigación}{13}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}La astronomía como ciencia}{13}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}El fenómeno de las fases lunares}{13}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Evolución científica del estudio de la Luna}{14}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Importancia de la Simulación en el Estudio de Fenómenos Astronómicos}{14}{subsection.4.1.4}%
-\contentsline {subsubsection}{\numberline {4.1.4.1}Ámbito científico}{14}{subsubsection.4.1.4.1}%
-\contentsline {subsubsection}{\numberline {4.1.4.2}Ámbito educativo}{14}{subsubsection.4.1.4.2}%
-\contentsline {section}{\numberline {4.2}Proyectos Similares}{15}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Análisis comparativo}{16}{subsection.4.2.1}%
-\contentsline {section}{\numberline {4.3}Tecnologías de desarollo}{17}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Lenguaje de programación}{17}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Librerías y Frameworks}{18}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Cálculo y Simulación Astronómica}{18}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Visualización de Datos}{18}{subsection.4.3.4}%
-\contentsline {subsection}{\numberline {4.3.5}Desarrollo Web e Interfaz Gráfica}{18}{subsection.4.3.5}%
-\contentsline {subsection}{\numberline {4.3.6}Generación de Reportes}{18}{subsection.4.3.6}%
-\contentsline {subsection}{\numberline {4.3.7}Justificación del Uso de Estas Herramientas}{18}{subsection.4.3.7}%
-\contentsline {subsection}{\numberline {4.3.8}Plataformas y Entornos de Desarrollo}{19}{subsection.4.3.8}%
-\contentsline {subsection}{\numberline {4.3.9}Beneficios del Uso de Software de Código Abierto}{19}{subsection.4.3.9}%
-\contentsline {chapter}{\numberline {5}Propuesta del proyecto}{20}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Metodología del trabajo}{20}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Escenario de aplicación}{20}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Cronograma de actividades}{20}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Presupuesto Real}{20}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Diseño Conceptual}{20}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Prototipo del Proyecto}{21}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Interfaces del sistema}{21}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Módulos Desarrollados}{21}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Construcción del prototipo}{21}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Presupuesto Real}{21}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Diseño Conceptual}{21}{section.6.5}%
-\contentsline {chapter}{\numberline {7}Resultados y Conclusiones}{22}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Resultados}{22}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Conclusiones}{22}{section.7.2}%
-\contentsline {chapter}{Bibliografía}{23}{section.7.2}%
+\contentsline {chapter}{\numberline {1}Introducción}{7}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Resumen}{8}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Generalidades del proyecto}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Antecedentes}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Compilación histórica del estudio astronómico}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Historia de la simulación en la astronomía}{9}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Transición a la era digital}{11}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Identificación del problema}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Objetivo General}{13}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Objetivos Específicos}{13}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Justificación}{13}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Delimitación}{13}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Marco Teórico}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Área de investigación}{14}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}La astronomía como ciencia}{14}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}El fenómeno de las fases lunares}{14}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Evolución científica del estudio de la Luna}{15}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Importancia de la Simulación en el Estudio de Fenómenos Astronómicos}{15}{subsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.4.1}Ámbito científico}{15}{subsubsection.4.1.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.4.2}Ámbito educativo}{15}{subsubsection.4.1.4.2}%
+\contentsline {section}{\numberline {4.2}Proyectos Similares}{16}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Análisis comparativo}{17}{subsection.4.2.1}%
+\contentsline {section}{\numberline {4.3}Tecnologías de desarollo}{18}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Lenguaje de programación}{18}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Librerías y Frameworks}{19}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Cálculo y Simulación Astronómica}{19}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Visualización de Datos}{19}{subsection.4.3.4}%
+\contentsline {subsection}{\numberline {4.3.5}Desarrollo Web e Interfaz Gráfica}{19}{subsection.4.3.5}%
+\contentsline {subsection}{\numberline {4.3.6}Generación de Reportes}{19}{subsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.3.7}Justificación del Uso de Estas Herramientas}{19}{subsection.4.3.7}%
+\contentsline {subsection}{\numberline {4.3.8}Plataformas y Entornos de Desarrollo}{20}{subsection.4.3.8}%
+\contentsline {subsection}{\numberline {4.3.9}Beneficios del Uso de Software de Código Abierto}{20}{subsection.4.3.9}%
+\contentsline {chapter}{\numberline {5}Propuesta del proyecto}{21}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Metodología del trabajo}{21}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Escenario de aplicación}{21}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Cronograma de actividades}{21}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Presupuesto Real}{21}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Diseño Conceptual}{21}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Prototipo del Proyecto}{22}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Interfaces del sistema}{22}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Módulos Desarrollados}{22}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Construcción del prototipo}{22}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Presupuesto Real}{22}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Diseño Conceptual}{22}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Resultados y Conclusiones}{23}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Resultados}{23}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Conclusiones}{23}{section.7.2}%
+\contentsline {chapter}{Bibliografía}{24}{section.7.2}%

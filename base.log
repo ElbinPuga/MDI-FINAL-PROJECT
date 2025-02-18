@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  16 FEB 2025 20:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  17 FEB 2025 20:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -493,11 +493,27 @@ Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
 \TX@ftn=\toks40
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (./renombrar_comandos.tex) (./estilo_capitulo.tex)
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks41
+\inpenc@posthook=\toks42
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+   defining Unicode char U+2714 (decimal 10004)
+) (./renombrar_comandos.tex) (./estilo_capitulo.tex)
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 23.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count313
 \l__pdf_internal_box=\box77
@@ -569,19 +585,101 @@ Package hyperref Info: Link coloring OFF on input line 23.
 \scratchbox=\box78
 \nofMPsegments=\count315
 \nofMParguments=\count316
-\everyMPshowfont=\toks41
+\everyMPshowfont=\toks43
 \MPscratchCnt=\count317
 \MPscratchDim=\dimen277
 \MPnumerator=\count318
 \makeMPintoPDFobject=\count319
-\everyMPtoPDFconversion=\toks42
+\everyMPtoPDFconversion=\toks44
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-)) (./Portada/portada.tex
-<Imagenes/utp.png, id=198, 2410.00375pt x 2410.00375pt>
+)) (./1.registro-oficial/1.1.titulo.tex
+<Imagenes/fisc.png, id=198, 276.03125pt x 276.03125pt>
+File: Imagenes/fisc.png Graphic file (type png)
+<use Imagenes/fisc.png>
+Package pdftex.def Info: Imagenes/fisc.png  used on input line 5.
+(pdftex.def)             Requested size: 55.20526pt x 55.20526pt.
+
+Overfull \hbox (8.2269pt too wide) in paragraph at lines 5--6
+ [] 
+ []
+
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 6.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 6.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 6.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <11> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7.69997> on input line 6.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5.5> on input line 6.
+) (./1.registro-oficial/1.2.facultad.tex) (./1.registro-oficial/1.3.datos-generales.tex
+Overfull \hbox (2.39346pt too wide) in paragraph at lines 3--3
+[]$[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+
+ []
+
+
+Overfull \hbox (2.39346pt too wide) in paragraph at lines 3--3
+[]$  $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+
+ []
+
+
+Overfull \hbox (0.30147pt too wide) in paragraph at lines 18--27
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T1/lmr/m/n/11 Te髍ico
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\T1/lmr/m/n/11 Pr醕tica
+ []
+
+
+Package array Warning: Redefining primitive column b on input line 65.
+
+(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd)
+Underfull \hbox (badness 10000) in alignment at lines 74--74
+[][][] 
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 74--29
+
+ []
+
+(./Portada/portada.tex
+<Imagenes/utp.png, id=199, 2410.00375pt x 2410.00375pt>
 File: Imagenes/utp.png Graphic file (type png)
 <use Imagenes/utp.png>
 Package pdftex.def Info: Imagenes/utp.png  used on input line 4.
@@ -591,7 +689,6 @@ Overfull \hbox (13.89838pt too wide) in paragraph at lines 4--5
  [] 
  []
 
-<Imagenes/fisc.png, id=199, 276.03125pt x 276.03125pt>
 File: Imagenes/fisc.png Graphic file (type png)
 <use Imagenes/fisc.png>
 Package pdftex.def Info: Imagenes/fisc.png  used on input line 16.
@@ -601,36 +698,15 @@ Overfull \hbox (6.82784pt too wide) in paragraph at lines 16--17
  [] 
  []
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 17.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 17.
-(/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 17.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 17.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 17.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <11> on input line 17.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.69997> on input line 17.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.5> on input line 17.
 )
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./Imagenes/utp.png> <./Imagenes/fisc.png>] (./base.toc
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Imagenes/fisc.png>]
 
-[2
+[2 <./Imagenes/utp.png>] (./base.toc
+
+[3
 
 ])
 \tf@toc=\write5
@@ -638,13 +714,13 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-[3] (./base.lof)
+[4] (./base.lof)
 \tf@lof=\write6
 \openout6 = `base.lof'.
 
 
 
-[4
+[5
 
 ] (./base.lot)
 \tf@lot=\write7
@@ -652,29 +728,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 
 
-[5
+[6
 
 ]
 Chapter 1.
 
 
-[6
+[7
 
 ]
 Chapter 2.
 
 
-[7
+[8
 
 ]
 Chapter 3.
 (./Antecedentes/contexto_historico.tex
-<Imagenes/MayasMoon.png, id=311, 464.33475pt x 215.00325pt>
+<Imagenes/MayasMoon.png, id=320, 464.33475pt x 215.00325pt>
 File: Imagenes/MayasMoon.png Graphic file (type png)
 <use Imagenes/MayasMoon.png>
 Package pdftex.def Info: Imagenes/MayasMoon.png  used on input line 14.
 (pdftex.def)             Requested size: 325.0321pt x 150.50124pt.
-<Imagenes/GalileoMoon.png, id=315, 426.99525pt x 448.67625pt>
+<Imagenes/GalileoMoon.png, id=324, 426.99525pt x 448.67625pt>
 File: Imagenes/GalileoMoon.png Graphic file (type png)
 <use Imagenes/GalileoMoon.png>
 Package pdftex.def Info: Imagenes/GalileoMoon.png  used on input line 29.
@@ -683,17 +759,17 @@ Package pdftex.def Info: Imagenes/GalileoMoon.png  used on input line 29.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Imagenes/papiro.png, id=317, 467.346pt x 402.90524pt>
+<Imagenes/papiro.png, id=326, 467.346pt x 402.90524pt>
 File: Imagenes/papiro.png Graphic file (type png)
 <use Imagenes/papiro.png>
 Package pdftex.def Info: Imagenes/papiro.png  used on input line 43.
 (pdftex.def)             Requested size: 257.04109pt x 221.59856pt.
 
 
-[8
+[9
 
  <./Imagenes/MayasMoon.png>]
-<Imagenes/fasesLunares1492.png, id=328, 495.8525pt x 641.39626pt>
+<Imagenes/fasesLunares1492.png, id=337, 495.8525pt x 641.39626pt>
 File: Imagenes/fasesLunares1492.png Graphic file (type png)
 <use Imagenes/fasesLunares1492.png>
 Package pdftex.def Info: Imagenes/fasesLunares1492.png  used on input line 51.
@@ -703,37 +779,33 @@ Underfull \vbox (badness 2818) has occurred while \output is active []
 
 
 
-[9 <./Imagenes/GalileoMoon.png> <./Imagenes/papiro.png>]) (./Antecedentes/problema_educativo.tex) (./Identificaci贸n del problema/impacto_ed_cientifica.tex
+[10 <./Imagenes/GalileoMoon.png> <./Imagenes/papiro.png>]) (./Antecedentes/problema_educativo.tex) (./Identificaci贸n del problema/impacto_ed_cientifica.tex
 
-[10 <./Imagenes/fasesLunares1492.png>]
-<Imagenes/EspanaPrueba.png, id=350, 377.0085pt x 77.69025pt>
+[11 <./Imagenes/fasesLunares1492.png>]
+<Imagenes/EspanaPrueba.png, id=359, 377.0085pt x 77.69025pt>
 File: Imagenes/EspanaPrueba.png Graphic file (type png)
 <use Imagenes/EspanaPrueba.png>
 Package pdftex.def Info: Imagenes/EspanaPrueba.png  used on input line 10.
 (pdftex.def)             Requested size: 358.15604pt x 73.80528pt.
-<Imagenes/tablaPruebaFases.png, id=353, 428.19975pt x 80.09924pt>
+<Imagenes/tablaPruebaFases.png, id=362, 428.19975pt x 80.09924pt>
 File: Imagenes/tablaPruebaFases.png Graphic file (type png)
 <use Imagenes/tablaPruebaFases.png>
 Package pdftex.def Info: Imagenes/tablaPruebaFases.png  used on input line 18.
 (pdftex.def)             Requested size: 406.78745pt x 76.09383pt.
 ) (./Objetivos/general.tex)
 
-[11 <./Imagenes/EspanaPrueba.png> <./Imagenes/tablaPruebaFases.png>] (./Objetivos/espec.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (./Justificacion/justificacion.tex) (./Delimitacion/delimitacion.tex)
+[12 <./Imagenes/EspanaPrueba.png> <./Imagenes/tablaPruebaFases.png>] (./Objetivos/espec.tex) (./Justificacion/justificacion.tex) (./Delimitacion/delimitacion.tex)
 
-[12{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
+[13]
 Chapter 4.
 (./Marco Te贸rico/intro.tex) (./Marco Te贸rico/area_investigacion.tex
 
-[13
+[14
 
 ]
 
-[14]) (./Marco Te贸rico/proyectos_similar.tex
-<Imagenes/nebraska.png, id=394, 664.28175pt x 532.389pt>
+[15]) (./Marco Te贸rico/proyectos_similar.tex
+<Imagenes/nebraska.png, id=402, 664.28175pt x 532.389pt>
 File: Imagenes/nebraska.png Graphic file (type png)
 <use Imagenes/nebraska.png>
 Package pdftex.def Info: Imagenes/nebraska.png  used on input line 5.
@@ -744,7 +816,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[15]
+[16]
 Underfull \hbox (badness 2856) in paragraph at lines 48--49
 \T1/lmr/m/n/11 reales, ma-te-rial descar-gable y
  []
@@ -779,44 +851,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[16 <./Imagenes/nebraska.png>]) (./Marco Te贸rico/tecnologias_desarrollo.tex
-<Imagenes/python-logo.png, id=409, 214.77423pt x 72.27pt>
+[17 <./Imagenes/nebraska.png>]) (./Marco Te贸rico/tecnologias_desarrollo.tex
+<Imagenes/python-logo.png, id=417, 214.77423pt x 72.27pt>
 File: Imagenes/python-logo.png Graphic file (type png)
 <use Imagenes/python-logo.png>
 Package pdftex.def Info: Imagenes/python-logo.png  used on input line 6.
 (pdftex.def)             Requested size: 171.81961pt x 57.81606pt.
 
 
-[17 <./Imagenes/python-logo.png (PNG copy)>]
+[18 <./Imagenes/python-logo.png (PNG copy)>]
 Overfull \hbox (3.68274pt too wide) in paragraph at lines 48--49
 []\T1/lmr/bx/n/11 Flask + HTML/CSS/JavaScript \T1/lmr/m/n/11 garan-ti-zan una in-ter-faz in-tu-itiva y ac-ce-si-ble desde cualquier
  []
 
 
 
-[18]
+[19]
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 59.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 
-[19]
+[20]
 Chapter 5.
 (./Cronograma/cronograma_act.tex)
 
-[20
+[21
 
 ]
 Chapter 6.
 
 
-[21
+[22
 
 ]
 Chapter 7.
 
 
-[22
+[23
 
 ]
 \openout2 = `referencias.aux'.
@@ -858,7 +930,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
 
 
-[23
+[24
 
 
 ]
@@ -868,7 +940,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--73
 
 )
 
-[24] (./base.aux (./referencias.aux))
+[25] (./base.aux (./referencias.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -877,18 +949,18 @@ Package rerunfilecheck Info: File `base.out' has not changed.
 (rerunfilecheck)             Checksum: 73B4914C76C720CB4DAD1F9B7F611D8B;8889.
  ) 
 Here is how much of TeX's memory you used:
- 23372 strings out of 473250
- 455790 string characters out of 5717905
- 834239 words of memory out of 5000000
- 46020 multiletter control sequences out of 15000+600000
- 601927 words of font info for 60 fonts, out of 8000000 for 9000
+ 23497 strings out of 473250
+ 458560 string characters out of 5717905
+ 844461 words of memory out of 5000000
+ 46116 multiletter control sequences out of 15000+600000
+ 612865 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,10n,110p,1193b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on base.pdf (24 pages, 3864319 bytes).
+ 103i,11n,110p,1193b,550s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on base.pdf (25 pages, 3941184 bytes).
 PDF statistics:
- 521 PDF objects out of 1000 (max. 8388607)
- 458 compressed objects within 5 object streams
- 108 named destinations out of 1000 (max. 500000)
+ 548 PDF objects out of 1000 (max. 8388607)
+ 476 compressed objects within 5 object streams
+ 109 named destinations out of 1000 (max. 500000)
  447 words of extra memory for PDF output out of 10000 (max. 10000000)
 
