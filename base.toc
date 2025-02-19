@@ -14,22 +14,22 @@
 \contentsline {subsubsection}{Ámbito educativo}{12}{section*.6}%
 \contentsline {subsection}{Análisis comparativo}{13}{figure.0.5}%
 \contentsline {section}{Propuesta}{14}{table.0.2}%
-\contentsline {section}{Objetivo General}{15}{figure.0.7}%
-\contentsline {section}{Objetivos Específicos}{15}{figure.0.7}%
-\contentsline {section}{Metodología}{16}{figure.0.7}%
-\contentsline {section}{Delimitación}{16}{figure.0.7}%
-\contentsline {section}{Justificación}{16}{figure.0.7}%
-\contentsline {section}{Estructura de la memoria}{17}{figure.0.7}%
-\contentsline {section}{Plan de contenido}{17}{figure.0.7}%
-\contentsline {section}{Herramientas de hardware y software a utilizar}{19}{figure.0.7}%
+\contentsline {section}{Objetivo General}{15}{table.0.4}%
+\contentsline {section}{Objetivos Específicos}{15}{table.0.4}%
+\contentsline {section}{Metodología}{15}{table.0.4}%
+\contentsline {section}{Delimitación}{16}{table.0.4}%
+\contentsline {section}{Justificación}{16}{table.0.4}%
+\contentsline {section}{Estructura de la memoria}{16}{table.0.4}%
+\contentsline {section}{Plan de contenido}{17}{table.0.4}%
+\contentsline {section}{Herramientas de hardware y software a utilizar}{19}{table.0.4}%
 \contentsline {subsection}{Lenguaje de programación}{19}{section*.7}%
-\contentsline {subsection}{Librerías y Frameworks}{19}{figure.0.8}%
-\contentsline {subsection}{Cálculo y Simulación Astronómica}{19}{figure.0.8}%
-\contentsline {subsection}{Visualización de Datos}{20}{figure.0.8}%
-\contentsline {subsection}{Desarrollo Web e Interfaz Gráfica}{20}{figure.0.8}%
-\contentsline {subsection}{Generación de Reportes}{20}{figure.0.8}%
-\contentsline {subsection}{Justificación del Uso de Estas Herramientas}{20}{figure.0.8}%
-\contentsline {subsection}{Plataformas y Entornos de Desarrollo}{20}{figure.0.8}%
-\contentsline {subsection}{Beneficios del Uso de Software de Código Abierto}{20}{figure.0.8}%
-\contentsline {section}{Bibliografía}{22}{figure.0.8}%
-\contentsline {section}{Cronograma de actividades}{24}{chapter*.8}%
+\contentsline {subsection}{Librerías y Frameworks}{19}{figure.0.6}%
+\contentsline {subsection}{Cálculo y Simulación Astronómica}{19}{figure.0.6}%
+\contentsline {subsection}{Visualización de Datos}{19}{figure.0.6}%
+\contentsline {subsection}{Desarrollo Web e Interfaz Gráfica}{19}{figure.0.6}%
+\contentsline {subsection}{Generación de Reportes}{20}{figure.0.6}%
+\contentsline {subsection}{Justificación del Uso de Estas Herramientas}{20}{figure.0.6}%
+\contentsline {subsection}{Plataformas y Entornos de Desarrollo}{20}{figure.0.6}%
+\contentsline {subsection}{Beneficios del Uso de Software de Código Abierto}{20}{figure.0.6}%
+\contentsline {section}{Bibliografía}{21}{figure.0.6}%
+\contentsline {section}{Cronograma de actividades}{23}{chapter*.8}%
