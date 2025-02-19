@@ -1,9 +1,3 @@
-% TODO:
-% Arreglar portada
-% Hacer registro del tema
-% Hacer formulario de verificacion
-%
-
 \documentclass{extbook}
 
 % Paquetes
@@ -15,17 +9,26 @@
 % Traducir palabras clave de inglés a español
 \input{renombrar_comandos.tex}
 
+% Nuevos comandos
+\input{nuevos_comandos.tex}
+
 % Estilo de titulo de capitulo
-% Que dolor uuuuuffffff. Leer documentacion uuufff
+% NOTE:
+% Esto no se usa dado que se usa \section para evitar saltos de pagina
+% salvo en la bibliografia
+%
 \input{estilo_capitulo.tex}
 
 % Inicio de documento
 \begin{document}
 
-% Registro oficial del tema
+% Registro oficial del tema de trabajo de graduación
 \input{./1.registro-oficial/1.1.titulo.tex}
 \input{./1.registro-oficial/1.2.facultad.tex}
 \input{./1.registro-oficial/1.3.datos-generales.tex}
+
+% Formulario de verificación de entrega de documentos
+\input{./2.formulario-verificacion/2.1.formulario-verificacion.tex}
 
 % Portada
 \input{Portada/portada.tex}
@@ -35,61 +38,79 @@
 \listoffigures
 \listoftables
 
+\newpage
 % Introduccion
-\chapter{Introducción}
-% \input{Introduccion/intro.tex}
-\chapter{Resumen}
+\addcontentsline{toc}{section}{Introducción}
+\section*{Introducción}
+\input{Introduccion/intro.tex}
 
-% Capitulo 1
-\chapter{Generalidades del proyecto}
-  \section{Antecedentes}
-    \input{Antecedentes/contexto_historico.tex}
-    \input{Antecedentes/era_ditial.tex}
-    \input{Antecedentes/problema_educativo.tex}
-  \section{Identificación del problema}
-    \input{Identificación del problema/impacto_ed_cientifica.tex}
-  \section{Objetivo General}
-    \input{Objetivos/general.tex}
-  \section{Objetivos Específicos}
-    \input{Objetivos/espec.tex}
-  \section{Justificación}
-    \input{Justificacion/justificacion.tex}
-  \section{Delimitación}
-    \input{Delimitacion/delimitacion.tex}
+% Antecedentes
+\addcontentsline{toc}{section}{Antecedentes}
+\section*{Antecedentes}
+\input{Antecedentes/contexto_historico.tex}
+\input{Antecedentes/era_digital.tex}
+\input{Antecedentes/problema_educativo.tex}
 
-% Capitulo 2
-\chapter{Marco Teórico}
-  \section{Área de investigación}
-    \input{Marco Teórico/intro.tex}
-    \input{Marco Teórico/area_investigacion.tex}
-  \section{Proyectos Similares}
-    \input{Marco Teórico/proyectos_similar.tex}
-  \section{Tecnologías de desarollo}
-    \input{Marco Teórico/tecnologias_desarrollo.tex}
+% Estudios de investigación
+\addcontentsline{toc}{section}{Estudios de investigación}
+\section*{Estudios de investigación}
+\input{Marco Teórico/intro.tex}
+\input{Marco Teórico/area_investigacion.tex}
+\input{Marco Teórico/proyectos_similar.tex}
 
-% Capitulo 3
-\chapter{Propuesta del proyecto}
-  \section{Metodología del trabajo}
-  \section{Escenario de aplicación}
-  \section{Cronograma de actividades}
-    \input{Cronograma/cronograma_act.tex}
-  \section{Presupuesto Real}
-  \section{Diseño Conceptual}
+% Propuesta
+\addcontentsline{toc}{section}{Propuesta}
+\section*{Propuesta}
+\input{Identificación del problema/impacto_ed_cientifica.tex}
 
-% Capitulo 4
-\chapter{Prototipo del Proyecto}
-  \section{Interfaces del sistema}
-  \section{Módulos Desarrollados}
-  \section{Construcción del prototipo}
-  \section{Presupuesto Real}
-  \section{Diseño Conceptual}
+% Objetivo general
+\addcontentsline{toc}{section}{Objetivo General}
+\section*{Objetivo General}
+\input{Objetivos/general.tex}
 
-% Capitulo 5
-\chapter{Resultados y Conclusiones}
-  \section{Resultados}
-  \section{Conclusiones}
+% Objetivos especificos
+\addcontentsline{toc}{section}{Objetivos Específicos}
+\section*{Objetivos Específicos}
+\input{Objetivos/espec.tex}
 
-% Referencias
+% Metodologia
+\addcontentsline{toc}{section}{Metodología}
+\section*{Metodología}
+\input{metodologia.tex}
+
+% Delimitacion
+\addcontentsline{toc}{section}{Delimitación}
+\section*{Delimitación}
+\input{Delimitacion/delimitacion.tex}
+
+% Justificacion
+\addcontentsline{toc}{section}{Justificación}
+\section*{Justificación}
+\input{Justificacion/justificacion.tex}
+
+% Estrucutra de la memoria (JAJA que titulo)
+\addcontentsline{toc}{section}{Estructura de la memoria}
+\section*{Estructura de la memoria}
+\input{./esctructura-contenido/estructura_memoria.tex}
+
+% Plan de contenido
+\addcontentsline{toc}{section}{Plan de contenido}
+\section*{Plan de contenido}
+\input{./esctructura-contenido/plan_contenido.tex}
+
+% Herramientas de hardware y software a utilizar
+\addcontentsline{toc}{section}{Herramientas de hardware y software a utilizar}
+\section*{Herramientas de hardware y software a utilizar}
+\input{Marco Teórico/tecnologias_desarrollo.tex}
+
+% Bibliografia
 \include{referencias}
+
+% Cronograma de actividades
+% NOTE: Usar otro programa para crear el cronograma, complicado en LaTeX
+%
+\addcontentsline{toc}{section}{Cronograma de actividades}
+\section*{Cronograma de actividades}
+\input{Cronograma/cronograma_act.tex}
 
 \end{document}

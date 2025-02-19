@@ -54,6 +54,8 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
@@ -227,8 +229,6 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/graphics/dvipsnam.def
@@ -247,6 +247,9 @@ INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm
 INPUT ./renombrar_comandos.tex
 INPUT ./renombrar_comandos.tex
 INPUT renombrar_comandos.tex
+INPUT ./nuevos_comandos.tex
+INPUT ./nuevos_comandos.tex
+INPUT nuevos_comandos.tex
 INPUT ./estilo_capitulo.tex
 INPUT ./estilo_capitulo.tex
 INPUT estilo_capitulo.tex
@@ -309,41 +312,29 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
-INPUT ./1.registro-oficial/1.2.facultad.tex
-INPUT ./1.registro-oficial/1.2.facultad.tex
-INPUT ./1.registro-oficial/1.2.facultad.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT ./1.registro-oficial/1.2.facultad.tex
+INPUT ./1.registro-oficial/1.2.facultad.tex
+INPUT ./1.registro-oficial/1.2.facultad.tex
 INPUT ./1.registro-oficial/1.3.datos-generales.tex
 INPUT ./1.registro-oficial/1.3.datos-generales.tex
 INPUT ./1.registro-oficial/1.3.datos-generales.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
-INPUT ./Portada/portada.tex
-INPUT ./Portada/portada.tex
-INPUT Portada/portada.tex
-INPUT ./Imagenes/utp.png
-INPUT ./Imagenes/utp.png
-INPUT ./Imagenes/utp.png
-INPUT ./Imagenes/utp.png
-INPUT ./Imagenes/utp.png
-INPUT ./Imagenes/fisc.png
-INPUT ./Imagenes/fisc.png
-INPUT ./Imagenes/fisc.png
-INPUT ./Imagenes/fisc.png
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmcsc10.tfm
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT ./2.formulario-verificacion/2.1.formulario-verificacion.tex
+INPUT ./2.formulario-verificacion/2.1.formulario-verificacion.tex
+INPUT ./2.formulario-verificacion/2.1.formulario-verificacion.tex
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT ./Portada/portada.tex
+INPUT ./Portada/portada.tex
+INPUT Portada/portada.tex
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./base.toc
 INPUT ./base.toc
@@ -357,10 +348,16 @@ INPUT ./base.lot
 INPUT ./base.lot
 INPUT base.lot
 OUTPUT base.lot
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT ./Introduccion/intro.tex
+INPUT ./Introduccion/intro.tex
+INPUT Introduccion/intro.tex
 INPUT ./Antecedentes/contexto_historico.tex
 INPUT ./Antecedentes/contexto_historico.tex
 INPUT Antecedentes/contexto_historico.tex
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./Imagenes/MayasMoon.png
 INPUT ./Imagenes/MayasMoon.png
 INPUT ./Imagenes/MayasMoon.png
@@ -381,12 +378,26 @@ INPUT ./Imagenes/fasesLunares1492.png
 INPUT ./Imagenes/fasesLunares1492.png
 INPUT ./Imagenes/fasesLunares1492.png
 INPUT ./Imagenes/fasesLunares1492.png
-INPUT ./Antecedentes/era_ditial.tex
-INPUT ./Antecedentes/era_ditial.tex
-INPUT Antecedentes/era_ditial.tex
+INPUT ./Antecedentes/era_digital.tex
+INPUT ./Antecedentes/era_digital.tex
+INPUT Antecedentes/era_digital.tex
 INPUT ./Antecedentes/problema_educativo.tex
 INPUT ./Antecedentes/problema_educativo.tex
 INPUT Antecedentes/problema_educativo.tex
+INPUT ./Marco Teórico/intro.tex
+INPUT ./Marco Teórico/intro.tex
+INPUT Marco Teórico/intro.tex
+INPUT ./Marco Teórico/area_investigacion.tex
+INPUT ./Marco Teórico/area_investigacion.tex
+INPUT Marco Teórico/area_investigacion.tex
+INPUT ./Marco Teórico/proyectos_similar.tex
+INPUT ./Marco Teórico/proyectos_similar.tex
+INPUT Marco Teórico/proyectos_similar.tex
+INPUT ./Imagenes/nebraska.png
+INPUT ./Imagenes/nebraska.png
+INPUT ./Imagenes/nebraska.png
+INPUT ./Imagenes/nebraska.png
+INPUT ./Imagenes/nebraska.png
 INPUT ./Identificación del problema/impacto_ed_cientifica.tex
 INPUT ./Identificación del problema/impacto_ed_cientifica.tex
 INPUT Identificación del problema/impacto_ed_cientifica.tex
@@ -406,26 +417,21 @@ INPUT Objetivos/general.tex
 INPUT ./Objetivos/espec.tex
 INPUT ./Objetivos/espec.tex
 INPUT Objetivos/espec.tex
-INPUT ./Justificacion/justificacion.tex
-INPUT ./Justificacion/justificacion.tex
-INPUT Justificacion/justificacion.tex
+INPUT ./metodologia.tex
+INPUT ./metodologia.tex
+INPUT metodologia.tex
 INPUT ./Delimitacion/delimitacion.tex
 INPUT ./Delimitacion/delimitacion.tex
 INPUT Delimitacion/delimitacion.tex
-INPUT ./Marco Teórico/intro.tex
-INPUT ./Marco Teórico/intro.tex
-INPUT Marco Teórico/intro.tex
-INPUT ./Marco Teórico/area_investigacion.tex
-INPUT ./Marco Teórico/area_investigacion.tex
-INPUT Marco Teórico/area_investigacion.tex
-INPUT ./Marco Teórico/proyectos_similar.tex
-INPUT ./Marco Teórico/proyectos_similar.tex
-INPUT Marco Teórico/proyectos_similar.tex
-INPUT ./Imagenes/nebraska.png
-INPUT ./Imagenes/nebraska.png
-INPUT ./Imagenes/nebraska.png
-INPUT ./Imagenes/nebraska.png
-INPUT ./Imagenes/nebraska.png
+INPUT ./Justificacion/justificacion.tex
+INPUT ./Justificacion/justificacion.tex
+INPUT Justificacion/justificacion.tex
+INPUT ./esctructura-contenido/estructura_memoria.tex
+INPUT ./esctructura-contenido/estructura_memoria.tex
+INPUT ./esctructura-contenido/estructura_memoria.tex
+INPUT ./esctructura-contenido/plan_contenido.tex
+INPUT ./esctructura-contenido/plan_contenido.tex
+INPUT ./esctructura-contenido/plan_contenido.tex
 INPUT ./Marco Teórico/tecnologias_desarrollo.tex
 INPUT ./Marco Teórico/tecnologias_desarrollo.tex
 INPUT Marco Teórico/tecnologias_desarrollo.tex
@@ -438,27 +444,29 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmtt.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
-INPUT ./Cronograma/cronograma_act.tex
-INPUT ./Cronograma/cronograma_act.tex
-INPUT Cronograma/cronograma_act.tex
 INPUT ./referencias.tex
 INPUT ./referencias.tex
 OUTPUT referencias.aux
 INPUT ./referencias.tex
 INPUT ./referencias.tex
 INPUT referencias.tex
+INPUT ./Cronograma/cronograma_act.tex
+INPUT ./Cronograma/cronograma_act.tex
+INPUT Cronograma/cronograma_act.tex
+INPUT ./Imagenes/cronograma.png
+INPUT ./Imagenes/cronograma.png
+INPUT ./Imagenes/cronograma.png
+INPUT ./Imagenes/cronograma.png
+INPUT ./Imagenes/cronograma.png
 INPUT base.aux
 INPUT ./referencias.aux
 INPUT ./referencias.aux
 INPUT referencias.aux
 INPUT ./base.out
 INPUT ./base.out
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
