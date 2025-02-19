@@ -27,13 +27,14 @@ El tema escogido tiene mayor relevancia en el área académica de: (ponderar en 
 
 Este trabajo de graduación lo consideramos de tipo:
 
-\begin{tabular}{|p{7em}|c|p{5em}|c|p{5em}|c|p{8em}|c|p{6em}|c|}
+% En esta tabla se emplea el simbolo unicode ✔ (verificado)
+\begin{tabularx}{\textwidth}{|p{7em}|c|p{5em}|c|p{5em}|c|p{8.3em}|c|p{6em}|c|}
   \hline
   Teórico & & Teórico Práctico & ✔ & Práctica Profesional & & Certificación & & Otro & \\
   \hline
   \multicolumn{3}{|l|}{Si es Otro, especifique:} & \multicolumn{7}{c|}{} \\
   \hline
-\end{tabular}
+\end{tabularx}
 
 Si es Práctica Profesional, Nombre de la Empresa:
 
@@ -44,27 +45,27 @@ Sugerimos como Asesor al Profesor(a): \asesor
 El cual pertenece al Departamento Académico:\\
 \underline{Departamento de Computación y Simulación de Sistemas}
 
-{
-\renewcommand{\arraystretch}{1.5}
 \begin{tabularx}{\textwidth}{
-  | >{\raggedright\arraybackslash}X
-  | >{\raggedright\arraybackslash}X
-  | >{\raggedright\arraybackslash}X
-  | >{\raggedright\arraybackslash}X
+  | p{7em}
+  | p{5em}
+  | p{7em}
+  | p{11em}
   | >{\raggedright\arraybackslash}X |}
   \hline
   \textbf{NOMBRE} & \textbf{CÉDULA} & \textbf{TELÉFONOS} & \textbf{CORREO} & \textbf{FIRMA} \\
   \hline
-  & & & @utp.ac.pa & \\
+  \estudianteuno & \cedulauno & \telefonouno & \correouno & \\
+  \hline
+  \estudiantedos & \cedulados & \telefonodos & \correodos & \\
   \hline
 \end{tabularx}
-}
 \\
 \itshape \small
 Artículo 40 del Reglamento aprobado por el Consejo Académico: La Tesis será preferiblemente obra de un solo estudiante, pero por razones espaciales se permitirá más de un (1) estudiante es una misma Tesis.
 \upshape \normalsize
 
 % Columnas personalizadas b(big), s(small), t(tiny). Las 3 suman 100% ancho
+\vfill
 {
 \renewcommand{\arraystretch}{1.5}
 \newcolumntype{b}{>{\hsize=.45\hsize}X} % ~45% ancho pagina
