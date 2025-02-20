@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  19 FEB 2025 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  19 FEB 2025 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,11 +917,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--73
 )
 
 [22] (./cronograma/cronograma.tex
-<Imagenes/cronograma.png, id=358, 450.9347pt x 548.80031pt>
+<Imagenes/cronograma.png, id=358, 452.4403pt x 557.83406pt>
 File: Imagenes/cronograma.png Graphic file (type png)
 <use Imagenes/cronograma.png>
 Package pdftex.def Info: Imagenes/cronograma.png  used on input line 3.
-(pdftex.def)             Requested size: 405.83748pt x 493.9157pt.
+(pdftex.def)             Requested size: 407.19252pt x 502.046pt.
 )
 
 [23
@@ -944,7 +944,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  103i,11n,110p,1193b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on base.pdf (23 pages, 3823548 bytes).
+Output written on base.pdf (23 pages, 3814123 bytes).
 PDF statistics:
  415 PDF objects out of 1000 (max. 8388607)
  357 compressed objects within 4 object streams
