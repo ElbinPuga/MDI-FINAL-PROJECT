@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  26 FEB 2025 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.8)  26 FEB 2025 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -670,20 +670,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []|\T1/lmr/m/n/11 Práctica
  []
 
+File: Imagenes/firma-elbin.png Graphic file (type png)
+<use Imagenes/firma-elbin.png>
+Package pdftex.def Info: Imagenes/firma-elbin.png  used on input line 61.
+(pdftex.def)             Requested size: 61.68341pt x 25.15929pt.
 File: Imagenes/firma-arland.png Graphic file (type png)
 <use Imagenes/firma-arland.png>
 Package pdftex.def Info: Imagenes/firma-arland.png  used on input line 61.
-(pdftex.def)             Requested size: 72.03056pt x 29.3904pt.
+(pdftex.def)             Requested size: 54.01949pt x 22.0414pt.
 
-Package array Warning: Redefining primitive column b on input line 71.
+Package array Warning: Redefining primitive column b on input line 69.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd)
-Underfull \hbox (badness 10000) in alignment at lines 80--80
+Underfull \hbox (badness 10000) in alignment at lines 78--78
 [][][] 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 80--29
+Underfull \hbox (badness 10000) in paragraph at lines 78--29
 
  []
 
@@ -691,11 +695,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--29
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Imagenes/fisc.png> <./Imagenes/firma-arland.png>]
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc} <./Imagenes/fisc.png> <./Imagenes/firma-elbin.png> <./Imagenes/firma-arland.png>]
 
-[2]
+Package array Warning: Column b is already defined on input line 14.
 
-Package array Warning: Redefining primitive column b on input line 14.
+
+Package array Warning: Column s is already defined on input line 15.
 
 
 Underfull \hbox (badness 10000) in alignment at lines 42--42
@@ -709,15 +714,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
 ) (./portada/portada.tex
 
-[3])
+[2])
 
-[4] (./base.toc)
+[3] (./base.toc)
 \tf@toc=\write5
 \openout5 = `base.toc'.
 
 
 
-[5
+[4
 
 ] (./base.lof)
 \tf@lof=\write6
@@ -725,7 +730,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
 
 
-[6
+[5
 
 ] (./base.lot)
 \tf@lot=\write7
@@ -733,27 +738,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--44
 
 
 
-[7
+[6
 
 ] (./introduccion/intro.tex) (./antecedentes/contexto_historico.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 1.
 
-<Imagenes/MayasMoon.png, id=220, 464.33475pt x 215.00325pt>
+<Imagenes/MayasMoon.png, id=216, 464.33475pt x 215.00325pt>
 File: Imagenes/MayasMoon.png Graphic file (type png)
 <use Imagenes/MayasMoon.png>
 Package pdftex.def Info: Imagenes/MayasMoon.png  used on input line 15.
 (pdftex.def)             Requested size: 325.0321pt x 150.50124pt.
 
 
-[8 <./Imagenes/MayasMoon.png>]
-<Imagenes/GalileoMoon.png, id=232, 426.99525pt x 448.67625pt>
+[7 <./Imagenes/MayasMoon.png>]
+<Imagenes/GalileoMoon.png, id=229, 426.99525pt x 448.67625pt>
 File: Imagenes/GalileoMoon.png Graphic file (type png)
 <use Imagenes/GalileoMoon.png>
 Package pdftex.def Info: Imagenes/GalileoMoon.png  used on input line 30.
 (pdftex.def)             Requested size: 213.4971pt x 224.33757pt.
-<Imagenes/papiro.png, id=234, 467.346pt x 402.90524pt>
+<Imagenes/papiro.png, id=231, 467.346pt x 402.90524pt>
 File: Imagenes/papiro.png Graphic file (type png)
 <use Imagenes/papiro.png>
 Package pdftex.def Info: Imagenes/papiro.png  used on input line 45.
@@ -763,8 +768,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[9 <./Imagenes/GalileoMoon.png>]
-<Imagenes/fasesLunares1492.png, id=243, 495.8525pt x 641.39626pt>
+[8 <./Imagenes/GalileoMoon.png>]
+<Imagenes/fasesLunares1492.png, id=240, 495.8525pt x 641.39626pt>
 File: Imagenes/fasesLunares1492.png Graphic file (type png)
 <use Imagenes/fasesLunares1492.png>
 Package pdftex.def Info: Imagenes/fasesLunares1492.png  used on input line 53.
@@ -774,22 +779,22 @@ Underfull \vbox (badness 1881) has occurred while \output is active []
 
 
 
-[10 <./Imagenes/papiro.png> <./Imagenes/fasesLunares1492.png>]) (./antecedentes/problema_educativo.tex) (./estudio_investigacion/intro_estudio.tex) (./estudio_investigacion/area_investigacion.tex
+[9 <./Imagenes/papiro.png> <./Imagenes/fasesLunares1492.png>]) (./antecedentes/problema_educativo.tex) (./estudio_investigacion/intro_estudio.tex) (./estudio_investigacion/area_investigacion.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 1.
 
 
 
-[11]
+[10]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 77.
 
 
 
-[12]) (./estudio_investigacion/proyectos_similar.tex
-<Imagenes/nebraska.png, id=279, 664.28175pt x 532.389pt>
+[11]) (./estudio_investigacion/proyectos_similar.tex
+<Imagenes/nebraska.png, id=276, 664.28175pt x 532.389pt>
 File: Imagenes/nebraska.png Graphic file (type png)
 <use Imagenes/nebraska.png>
 Package pdftex.def Info: Imagenes/nebraska.png  used on input line 5.
@@ -800,7 +805,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[13]
+[12]
 Underfull \hbox (badness 2856) in paragraph at lines 26--27
 \T1/lmr/m/n/11 reales, ma-te-rial descar-gable y
  []
@@ -835,34 +840,29 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[14 <./Imagenes/nebraska.png>] (./propuesta/propuesta.tex
+[13 <./Imagenes/nebraska.png>] (./propuesta/propuesta.tex
 
-[15]) (./objetivos/general.tex) (./objetivos/espec.tex) (./metodologia/metodologia.tex
+[14]) (./objetivos/general.tex) (./objetivos/espec.tex) (./metodologia/metodologia.tex
 
-[16])
-Overfull \hbox (17.89114pt too wide) in paragraph at lines 7--80
-[]\T1/lmr/m/n/11 Finalmente, se ll-e-vará a cabo una fase de eval-u-ación y retroal-i-mentación, car-ac-terís-tica de la investigación-
- []
+[15]) (./delimitacion/delimitacion.tex) (./justificacion/justificacion.tex) (./esctructura_memoria/estructura_memoria.tex
 
-(./delimitacion/delimitacion.tex) (./justificacion/justificacion.tex) (./esctructura_memoria/estructura_memoria.tex
+[16]) (./plan_contenido/plan_contenido.tex
 
-[17]) (./plan_contenido/plan_contenido.tex
-
-[18]
-
-[19]) (./herramientas_desarrollo/herramientas_desarrollo.tex
+[17]) (./herramientas_desarrollo/herramientas_desarrollo.tex
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
 (hyperref)                be the same. Added a new anchor on input line 1.
 
-<Imagenes/python-logo.png, id=326, 214.77423pt x 72.27pt>
+<Imagenes/python-logo.png, id=318, 214.77423pt x 72.27pt>
 File: Imagenes/python-logo.png Graphic file (type png)
 <use Imagenes/python-logo.png>
 Package pdftex.def Info: Imagenes/python-logo.png  used on input line 7.
 (pdftex.def)             Requested size: 171.81961pt x 57.81606pt.
 
 
-[20 <./Imagenes/python-logo.png (PNG copy)>]
+[18]
+
+[19 <./Imagenes/python-logo.png (PNG copy)>]
 Overfull \hbox (3.68274pt too wide) in paragraph at lines 55--56
 []\T1/lmr/bx/n/11 Flask + HTML/CSS/JavaScript \T1/lmr/m/n/11 garan-ti-zan una in-ter-faz in-tu-itiva y ac-ce-si-ble desde cualquier
  []
@@ -872,7 +872,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 67
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ))
 
-[21]
+[20]
 \openout2 = `bibliografia/bibliografia.aux'.
 
  (./bibliografia/bibliografia.tex
@@ -912,7 +912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
 
 
-[22
+[21
 
 
 ]
@@ -922,15 +922,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--73
 
 )
 
-[23] (./cronograma/cronograma.tex
-<Imagenes/cronograma.png, id=363, 452.4403pt x 557.83406pt>
+[22] (./cronograma/cronograma.tex
+<Imagenes/cronograma.png, id=360, 452.4403pt x 557.83406pt>
 File: Imagenes/cronograma.png Graphic file (type png)
 <use Imagenes/cronograma.png>
 Package pdftex.def Info: Imagenes/cronograma.png  used on input line 3.
 (pdftex.def)             Requested size: 407.19252pt x 502.046pt.
 )
 
-[24
+[23
 
 
  <./Imagenes/cronograma.png>] (./base.aux (./bibliografia/bibliografia.aux))
@@ -942,18 +942,18 @@ Package rerunfilecheck Info: File `base.out' has not changed.
 (rerunfilecheck)             Checksum: 6F040C45DD5BFDFADB62D2E3576EF2FB;7013.
  ) 
 Here is how much of TeX's memory you used:
- 23541 strings out of 473250
- 460221 string characters out of 5717905
- 843971 words of memory out of 5000000
- 46176 multiletter control sequences out of 15000+600000
+ 23547 strings out of 473250
+ 460430 string characters out of 5717905
+ 845512 words of memory out of 5000000
+ 46183 multiletter control sequences out of 15000+600000
  604060 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,13n,110p,1193b,597s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on base.pdf (24 pages, 3905072 bytes).
+Output written on base.pdf (23 pages, 5294813 bytes).
 PDF statistics:
- 420 PDF objects out of 1000 (max. 8388607)
- 360 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
- 338 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 343 words of extra memory for PDF output out of 10000 (max. 10000000)
 
